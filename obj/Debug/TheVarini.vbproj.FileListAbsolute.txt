@@ -1,0 +1,17 @@
+C:\Users\Axyl\source\repos\TheVarini\bin\Debug\TheVarini.exe.config
+C:\Users\Axyl\source\repos\TheVarini\bin\Debug\TheVarini.exe
+C:\Users\Axyl\source\repos\TheVarini\bin\Debug\TheVarini.pdb
+C:\Users\Axyl\source\repos\TheVarini\bin\Debug\TheVarini.xml
+C:\Users\Axyl\source\repos\TheVarini\obj\Debug\TheVarini.vbprojAssemblyReference.cache
+C:\Users\Axyl\source\repos\TheVarini\obj\Debug\TheVarini.MainMenu.resources
+C:\Users\Axyl\source\repos\TheVarini\obj\Debug\TheVarini.Resources.resources
+C:\Users\Axyl\source\repos\TheVarini\obj\Debug\TheVarini.vbproj.GenerateResource.cache
+C:\Users\Axyl\source\repos\TheVarini\obj\Debug\TheVarini.exe
+C:\Users\Axyl\source\repos\TheVarini\obj\Debug\TheVarini.xml
+C:\Users\Axyl\source\repos\TheVarini\obj\Debug\TheVarini.pdb
+C:\Users\Axyl\source\repos\TheVarini\obj\Debug\TheVarini.Game.resources
+C:\Users\Axyl\source\repos\TheVarini\obj\Debug\TheVarini.Map.resources
+C:\Users\Axyl\source\repos\TheVarini\obj\Debug\TheVarini.ScoutWindow.resources
+C:\Users\Axyl\source\repos\TheVarini\obj\Debug\TheVarini.about.resources
+C:\Users\Axyl\source\repos\TheVarini\obj\Debug\TheVarini.Combat.resources
+C:\Users\Axyl\source\repos\TheVarini\obj\Debug\TheVarini.Negotiation.resources

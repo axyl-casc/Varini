@@ -1,0 +1,29 @@
+Program:	TheVarini
+Date:		2019/12/06 - YYYY/MM/DD
+Author:		Axyl Schulz
+
+Open Program:
+- Double click "TheVarini.exe" OR double click "runProgram.bat"
+
+I have no way of knowing for sure if this program will work on all computers,
+so if there is an issue running the program (i.e. an antivirus deletes it or you cannot download it)
+then you can still view most of the project by doing so:
+
+1. open a web browser of some kind 
+2. drag and drop the "index.html" file into your web browser
+
+note*: Looking at the about page in the games about window breaks some things. There is an option called "Open webbrowser About"
+in the tools. This will try to open the index file in your default browser.
+
+This will allow you to view all the text details/about menus in the game in your browser.
+
+Another issue is that the menus in the game might not display properly. In this case you could either change your
+display zoom to 125%, or simply read the html files in a webbrowser.
+
+How to change display zoom:
+1. r-click desktop
+2. click display settings
+3. under "Scale and layout" theres a "Change the size of text, apps and other items"
+4. click the drop-down and change it to 125%
+
+You will likely not have to do this, but just in case i'll leave this here.
